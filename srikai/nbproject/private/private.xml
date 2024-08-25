@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/srikai/src/java/model/Food.java</file>
+            <file>file:/C:/srikai/web/addNewFoodSuccess.jsp</file>
+            <file>file:/C:/srikai/src/java/controller/DBConnection.java</file>
+            <file>file:/C:/srikai/web/updateFood.jsp</file>
+            <file>file:/C:/srikai/web/WEB-INF/web.xml</file>
+            <file>file:/C:/srikai/web/META-INF/context.xml</file>
+            <file>file:/C:/srikai/.gitinore</file>
+            <file>file:/C:/srikai/nbproject/build-impl.xml</file>
+            <file>file:/C:/srikai/src/java/controller/AddNewFoodServlet.java</file>
+            <file>file:/C:/srikai/web/addnewfood.jsp</file>
+            <file>file:/C:/srikai/web/addNewFood.html</file>
+            <file>file:/C:/srikai/src/java/services/getFoodDataService.java</file>
+            <file>file:/C:/srikai/web/index.html</file>
+            <file>file:/C:/srikai/.git/config</file>
+            <file>file:/C:/srikai/src/java/controller/TestSQLSelect.java</file>
+        </group>
+    </open-files>
+</project-private>
